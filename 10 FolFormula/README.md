@@ -92,3 +92,8 @@ Formula
      └─ Exists
 ```
 
+
+Modifikujte
+a odovzdávajte knižnicu [Formula.java](Formula.java). Program
+[FolFormulaTest.java](FolFormulaTest.java) musí korektne zbehnúť s vašou
+knižnicou.
