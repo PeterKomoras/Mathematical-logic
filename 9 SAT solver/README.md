@@ -18,7 +18,7 @@ naspäť obnovovať.
 Použite teda techniku _sledovaných literálov_ na implementáciou DPLL solvera.
 
 
-Odovzdávajte súbory [`Theory.java`](pu09-java/Theory.java)
-a [`SatSolver.java`](pu09-java/SatSolver.java).
-Program [`SatSolverTest.java`](pu09-java/SatSolverTest.java)
+Odovzdávajte súbory [`Theory.java`](Theory.java)
+a [`SatSolver.java`](SatSolver.java).
+Program [`SatSolverTest.java`](SatSolverTest.java)
 musí korektne zbehnúť s vašou knižnicou.
