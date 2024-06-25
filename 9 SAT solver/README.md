@@ -16,3 +16,9 @@ literálov_ z klauzúl a _vymazávanie klauzúl_, čo sú veci, ktoré nie je 
 naspäť obnovovať.
 
 Použite teda techniku _sledovaných literálov_ na implementáciou DPLL solvera.
+
+
+Odovzdávajte súbory [`Theory.java`](pu09-java/Theory.java)
+a [`SatSolver.java`](pu09-java/SatSolver.java).
+Program [`SatSolverTest.java`](pu09-java/SatSolverTest.java)
+musí korektne zbehnúť s vašou knižnicou.
